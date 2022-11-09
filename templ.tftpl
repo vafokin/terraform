@@ -1,0 +1,3 @@
+%{ for i, list in lists.domains }
+${i + 1}: ${list} ${lists.ips[i]} ${lists.passes[i]}
+%{ endfor }

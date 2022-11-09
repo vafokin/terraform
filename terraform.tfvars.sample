@@ -1,0 +1,17 @@
+token = "token_body"
+
+tag = "tag_text"
+
+myKey = "ssh-rsa AAAAB..."
+
+aws_access_key = "access_key"
+
+aws_secret_key = "secret_key"
+
+module = "example"
+
+mail = "mail_at_gmail_com"
+
+key = "/root/.ssh/id_rsa"
+
+devs = {logins = ["username", "username2"], prefix = ["app1", "app2"]}
