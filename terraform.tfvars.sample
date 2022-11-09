@@ -12,6 +12,6 @@ module = "example"
 
 mail = "mail_at_gmail_com"
 
-key = "/root/.ssh/id_rsa"
+keyfile = "/root/.ssh/id_rsa"
 
 devs = {logins = ["username", "username2"], prefix = ["app1", "app2"]}
